@@ -1,5 +1,5 @@
 # Image Background Gradient
-Python implementation of generating image background gradient using colors in image.
+Python implementation of generating image background gradient based on colors in the image.
 
 ## Modules used - 
 1. PIL(pillow)
