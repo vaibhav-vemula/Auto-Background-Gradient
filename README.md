@@ -18,11 +18,11 @@ Python implementation of generating image background gradient using colors in im
 
 ## Output -
 <p align="center">
-  <img src="output/TheMinimalistEntrepreneur.jpg" height="300" alt="TheMinimalistEntrepreneur" />
+  <img src="output/TheMinimalistEntrepreneur.jpg" height="290" alt="TheMinimalistEntrepreneur" />
   &nbsp;
-  <img src="output/PowerMind.jpg" height="300" alt="PowerMind" />
+  <img src="output/PowerMind.jpg" height="290" alt="PowerMind" />
   &nbsp;
-  <img src="output/DaleCarnegie.jpg" height="300" alt="DaleCarnegie" />
+  <img src="output/DaleCarnegie.jpg" height="290" alt="DaleCarnegie" />
   &nbsp;
-  <img src="output/RichDad.jpg" height="300" alt="RichDad" />
+  <img src="output/RichDad.jpg" height="290" alt="RichDad" />
 </p>
