@@ -2,7 +2,7 @@
 Python implementation of generating image background gradient based on colors in the image.
 
 ## Modules used - 
-1. PIL(pillow)
+1. PIL (pillow)
 
 ## Sample Input -
 <p align="center">
